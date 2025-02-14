@@ -162,14 +162,14 @@ imgs/
 #.idea/
 
 .idea
-config
+configs
 demo
 docker
 docs
-fgures
+figures
 logs
 mmcv
-mmv_custom
+mmcv_custom
 mmpose
 pretrained_models
 requirements
@@ -182,9 +182,9 @@ CITATION.cff
 keypoints_2d
 LICENSE
 MANIFEST.in
-model-index
-output
-pytest
-README
-requirements
+model-index*
+output.mp4
+pytest*
+README*
+requirements*
 setup*
