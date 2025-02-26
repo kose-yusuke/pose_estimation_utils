@@ -187,4 +187,6 @@ output.mp4
 pytest.ini
 README.md
 requirements.txt
-setup.py
+setup.cfg
+02_calib
+02_calib1
