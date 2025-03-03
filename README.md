@@ -11,3 +11,5 @@ Execution
 3. Run 3 - 2d_to_3d.py
 4. Run 4 - Visualize3d.py
 
+Directory Tree
+![ViTPose – README.md 2025_03_03 14_44_16.png](..%2FVideos%2FCaptures%2FViTPose%20%E2%80%93%20README.md%202025_03_03%2014_44_16.png)
