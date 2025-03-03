@@ -12,4 +12,4 @@ Execution
 4. Run 4 - Visualize3d.py
 
 Directory Tree
-![ViTPose – README.md 2025_03_03 14_44_16.png](..%2FVideos%2FCaptures%2FViTPose%20%E2%80%93%20README.md%202025_03_03%2014_44_16.png)
+![ViTPose – README md 2025_03_03 14_44_16](https://github.com/user-attachments/assets/3c2ea032-9396-4bdd-8cfa-8edd451b9a00)
