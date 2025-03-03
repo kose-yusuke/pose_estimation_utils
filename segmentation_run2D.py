@@ -32,7 +32,7 @@ frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 fps = int(cap.get(cv2.CAP_PROP_FPS))
 
 # ✅ **動画の保存設定**
-output_path = "test_mov/Right_02_output.mp4"
+output_path = "test_output_mov/Right_02_output.mp4"
 fourcc = cv2.VideoWriter_fourcc(*'mp4v')
 scale = 0.5
 out_width, out_height = int(frame_width * scale), int(frame_height * scale)

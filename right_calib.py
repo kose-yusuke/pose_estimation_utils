@@ -8,10 +8,10 @@ aruco_params = cv2.aruco.DetectorParameters()
 
 # キャリブレーション用動画のパス
 video_paths = [
-    "02_calib/Record_QRCalibration_new_WebcamFullLeft.avi",
-    "02_calib/Record_QRCalibration_new_WebcamFullRight.avi",
-    "02_calib/Record_QRCalibration_new_WebcamLeft.avi",
-    "02_calib/Record_QRCalibration_new_WebcamRight.avi"
+    "calib_mov/Record_QRCalibration_new_WebcamFullLeft.avi",
+    "calib_mov/Record_QRCalibration_new_WebcamFullRight.avi",
+    "calib_mov/Record_QRCalibration_new_WebcamLeft.avi",
+    "calib_mov/Record_QRCalibration_new_WebcamRight.avi"
 ]
 
 # ArUcoマーカーのサイズ（メートル単位）

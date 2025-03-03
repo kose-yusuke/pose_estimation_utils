@@ -174,8 +174,8 @@ mmpose
 pretrained_models
 requirements
 resources
-test_json
-test_mov
+#test_json
+test_output_mov
 tests
 tools
 CITATION.cff
@@ -185,8 +185,7 @@ MANIFEST.in
 model-index.yml
 output.mp4
 pytest.ini
-README.md
 requirements.txt
 setup.cfg
-02_calib
+calib_mov
 02_calib1
